@@ -8,7 +8,7 @@ Created by: **Fidel Ojimba & Rijad Kasuni**
 
 The following functionality is included in the app:
 
-- [x] **Accurate Weather Information - Daily, Hourly, and 3 Day Forcast**
+- [x] **Accurate Weather Information - Daily, Hourly, and 3 Day Forecast**
 - [x] **Weather Search by location**
 - [x] **Local and firestore data storage**
 - [x] **User Authentication with email, google sign in, and facebook**
